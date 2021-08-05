@@ -8,7 +8,7 @@ import JokeDetail from "./JokeDetail";
 const Router: React.FC = () => {
   return (
     <Provider store={store}>
-      <ReactRouter>
+      <ReactRouter basename='/projects/norris'>
         <Switch>
           <Route path="/" exact children={<Home />} />
           <Route path="/category/:id" exact children={<JokeDetail />} />

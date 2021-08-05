@@ -1,6 +1,7 @@
 {
   "name": "norris",
   "version": "0.1.0",
+  "homepage": "https://ritter.co.za/projects/norris/",
   "private": true,
   "dependencies": {
     "@testing-library/react": "^11.1.0",
