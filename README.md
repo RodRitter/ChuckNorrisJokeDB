@@ -1,4 +1,6 @@
-# Getting Started
+# Chuck Norris Joke DB
+
+## Getting Started
 
 Run `yarn install` to install dependencies
 
